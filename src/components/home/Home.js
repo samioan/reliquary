@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
 import Typography from "@material-ui/core/Typography";
-import Box from "@material-ui/core/Box";
 import Grid from "@material-ui/core/Grid";
 import styles from "./styles";
 import lordmonarch from "../../components/games/images/lordmonarch.jpg";
@@ -27,16 +26,20 @@ const Home = () => {
       >
         <Grid className={classes.textBox}>
           <Typography className={classes.text} variant="h6">
-            <b>Welcome to the Reliquary!</b>
+            <b>Welcome!</b>
           </Typography>
           <div className={classes.separator}></div>
           <Typography className={classes.text} variant="h6">
-            This is a personal archive for old and obscure media from various
-            sources. Here you can find a multitude of games, music, art,
-            websites and scans, among other things. I hope you enjoy your stay
-            here and find something that interests you. Feel free to contact me
-            for any questions, suggestions or feedback you may have. Your
-            contributions are more than welcome! Take care and have fun!
+            This is a personal archive of various obscure or old media I've
+            collected from various sources. Here you can find games, music, art
+            and websites that are interesting. I hope you enjoy your visit and
+            find something you like. Feel free to contact me for any questions,
+            suggestions or feedback. Your contributions are more than welcome.
+            Take care and have fun.
+          </Typography>
+          <div className={classes.separator}></div>
+          <Typography className={classes.text} variant="h6">
+            <i>By Selfish Dream</i>
           </Typography>
         </Grid>
 

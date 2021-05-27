@@ -13,9 +13,10 @@ const Theme = makeStyles(({ breakpoints }) => ({
     minHeight: "100vh",
   },
   title: {
+    textShadow: "0.25vh 0.25vh #111",
     paddingTop: 80,
-    textShadow: "2px 2px #111",
     color: "#76323F",
+    fontSize: "5vh",
   },
 }));
 
