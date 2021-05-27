@@ -29,8 +29,9 @@ const Home = () => {
           <Typography className={classes.text} variant="h6">
             <b>Welcome to the Reliquary!</b>
           </Typography>
+          <div className={classes.separator}></div>
           <Typography className={classes.text} variant="h6">
-            This is a personal archive of old and obscure media from various
+            This is a personal archive for old and obscure media from various
             sources. Here you can find a multitude of games, music, art,
             websites and scans, among other things. I hope you enjoy your stay
             here and find something that interests you. Feel free to contact me

@@ -52,6 +52,13 @@ const styles = makeStyles(({ breakpoints }) => ({
       width: "25vw",
     },
   },
+  separator: {
+    marginTop: 8,
+    marginBottom: 8,
+    backgroundColor: "#76323F",
+    height: 2,
+    width: "100%",
+  },
 }));
 
 export { styles };
