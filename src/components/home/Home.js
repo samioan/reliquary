@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import Typography from "@material-ui/core/Typography";
 import Grid from "@material-ui/core/Grid";
 import styles from "./styles";
-import lordmonarch from "../../components/games/images/lordmonarch.jpg";
+import lordmonarch from "../../components/games/images/lordMonarchOnline.jpg";
 
 const Home = () => {
   const classes = styles();

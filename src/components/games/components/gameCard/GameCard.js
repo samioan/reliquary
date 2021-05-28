@@ -16,7 +16,11 @@ const GameCard = ({ image, title, genre, gameLink }) => {
       style={{ textDecoration: "none" }}
     >
       <Grid className={classes.card}>
-        <img className={classes.media} src={image} alt={title} />
+        <img
+          className={classes.media}
+          src={require(`../../images/${image}.jpg`).default}
+          alt={title}
+        />
         <Grid className={classes.cardContent}>
           <Typography className={classes.title} variant="body1">
             <b>{title}</b>
