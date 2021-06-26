@@ -42,6 +42,17 @@ const gameDescriptions = [
   { frendz: ["Frendz", "Puzzle"] },
   { general: ["General", "Strategy"] },
   { gltron: ["GLTron", "Action"] },
+  { hacker: ["Hacker", "Puzzle"] },
+  { happyLand: ["Happyland Adventures", "Platformer"] },
+  { lBreakoutTwo: ["LBreakout 2", "Block Breaker"] },
+  { kaboom: ["KaBoom", "Card Game"] },
+  { mkWorm: ["MK Worm", "Snake"] },
+  { memory: ["Memory", "Memory Game"] },
+  { pongSolo: ["Pong Solo", "Sports"] },
+  { plasticKitten: ["Plastic Kitten", "Action"] },
+  { stickSoldiers: ["Stick Soldiers", "Shooter"] },
+  { rcdScrabble: ["RcdScrabble", "Board Game"] },
+  { ultimateSteroids: ["Ultimate Steroids", "Board Game"] },
 ];
 
 export { gameDescriptions };

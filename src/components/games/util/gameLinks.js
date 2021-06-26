@@ -169,6 +169,50 @@ const gameLinks = [
     gltron:
       "https://mega.nz/file/bkohEAoY#PeQFU3XfrLAwT-ioFlQlqvwkD_2G0-CjBrVUHGbT2ts",
   },
+  {
+    hacker:
+      "https://mega.nz/file/PtAUTbQS#wqUeNPPTcjw2ZHcCSzAchP9_-NpFpDuElz0bMMwxdfo",
+  },
+  {
+    happyLand:
+      "https://mega.nz/file/qpA0gDAa#X7hK0JLumIsF3wfkKPRWo0aeCeCIrINt1hSYnOkvCOQ",
+  },
+  {
+    lBreakoutTwo:
+      "https://mega.nz/file/uww11IRC#ycKUnsxNVjaEaDVehW9Qo03XysOT2hp_Z-QMV4G0Drw",
+  },
+  {
+    kaboom:
+      "https://mega.nz/file/ewI0TD5S#aKWyEQDG9_H7wKLmN9Muged1XGzEJ10ZWKqXgVSEGac",
+  },
+  {
+    mkWorm:
+      "https://mega.nz/file/vlIWVbKA#odDU5AWM13rMDXFlVo2Db_1qudYjTGa2EGTS_wEHaWA",
+  },
+  {
+    memory:
+      "https://mega.nz/file/WlQmWR7C#5BTIaUsnNO8IH9g_GtZTAuaynDQGIVMGtCfKzGi0H24",
+  },
+  {
+    pongSolo:
+      "https://mega.nz/file/a4AGVJyA#K3bKEmw7AVXHnFaJV1W2rq4CtGZ18pv8kfqlaiVb5bI",
+  },
+  {
+    plasticKitten:
+      "https://mega.nz/file/G14mVJbQ#su4-sv0P27yQVQJu2z_Lf-dRRYQzCb6p4hdf611kBa8",
+  },
+  {
+    stickSoldiers:
+      "https://mega.nz/file/3o4UHAbT#n3bpjUOU8lA3VY1pcGuhKtWdSPsepAcpXzgdppZ6tMw",
+  },
+  {
+    rcdScrabble:
+      "https://mega.nz/file/mowkQCwa#kB6GQsJUB3Y_Sl5dfFmyN5pEDVeyh9J3uAFIDYVQx5g",
+  },
+  {
+    ultimateSteroids:
+      "https://mega.nz/file/K1wmkKYD#JDxjZK7SCABQNclZcgpL-K5Y8moxpsLQPd2eE4uU0b0",
+  },
 ];
 
 export { gameLinks };
