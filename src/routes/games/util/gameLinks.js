@@ -1,31 +1,11 @@
 const gameLinks = [
   {
-    superMethaneBros:
-      "https://mega.nz/file/mh5gmQpJ#tadL2EG05MVTgVLIlb62rT8ia05ZV5sVMchn_-Cevx8",
-  },
-  {
-    asteroidz3d:
-      "https://mega.nz/file/f5YwkTrC#C9tmlwKGryRxEQjHcP6fJjWG4XQ7gPxpM83eVZmYM0g",
-  },
-  {
     threeSixty:
       "https://mega.nz/file/2tw2wYZQ#xuMkGcBC4qyQd1oX4fYacFiZfoBmH4szy0ExQ588HjI",
   },
   {
     threeDeeRacing:
       "https://mega.nz/file/bhgHSC5D#u4Az5UBQ7JqPLqGD8HnvzzR0tQEH-Q2luwGyWK2UdoQ",
-  },
-  {
-    abaDaba:
-      "https://mega.nz/file/q1ZCgJYB#EeFzwVunmy2z3iYr8007RmSIdcdhNyCEH-ep6THa1Z0",
-  },
-  {
-    codex:
-      "https://mega.nz/file/GkQQWJLJ#pTUnEzgokH2O0m3mGk9zIfCnK2WjcubiSkw2iO673wk",
-  },
-  {
-    tetrisBreak:
-      "https://mega.nz/file/69YSyZyR#RXS8-pUTsd8UcMXYwLP66P3_SlNPndsOlNQPcR_4XTc",
   },
   {
     yambo:

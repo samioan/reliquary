@@ -1,11 +1,4 @@
 const gameDescriptions = [
-  { superMethaneBros: ["Super Methane Bros", "Platformer"] },
-  { asteroidz3d: ["Asteroidz3D", "Shooter"] },
-  { threeSixty: ["360", "Shooter"] },
-  { threeDeeRacing: ["3D Racing", "Racing"] },
-  { abaDaba: ["Aba Daba", "Puzzle"] },
-  { codex: ["Codex", "Puzzle"] },
-  { tetrisBreak: ["Tetris Break", "Puzzle"] },
   { yambo: ["Yambo", "Board Game"] },
   { powerShooter: ["Power Shooter", "Shooter"] },
   { houseOfUsher: ["House of Usher", "Platformer"] },

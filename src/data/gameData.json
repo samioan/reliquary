@@ -1,0 +1,106 @@
+{
+    "360": {
+        "title": "3.6.0.",
+        "genre": "Shooter",
+        "description": [
+            ""
+        ],
+        "link": "",
+        "image": "",
+        "screenshots": [
+            ""
+        ],
+        "video": ""
+    },
+    "superMethaneBros": {
+        "title": "Super Methane Bros",
+        "genre": "Platformer",
+        "description": [
+            "Super Methane Brothers is a video game similar to Taito's Bubble Bobble arcade game, released for Amiga in 1993 by Apache Software.",
+            "The protagonists of the game, Puff and Blow, each have a Methane Gas Gun which fires a cloud of immobilising gas.",
+            "If this comes into contact with a bad guy, he will be absorbed into the gas and then float around the screen for a limited time.",
+            "Bad guys are harmless in this state.",
+            "Puff and Blow must suck the floating gas clouds into their guns and blast them out against a vertical surface.",
+            "Bad guys then turn into bonuses which can be collected."
+        ],
+        "link": "http://methane.sourceforge.net/",
+        "image": "http://methane.sourceforge.net/title.gif",
+        "screenshots": [
+            ""
+        ],
+        "video": ""
+    },
+    "azteroidz3d": {
+        "title": "Azteroidz3D",
+        "genre": "Shooter",
+        "description": [
+            "Remake of the classic arcade game Asteroids.",
+            "Shoot all the rocks, once they are all dead you will proceed to the next level.",
+            "The smart player will make sure they pick up any powerups left lying around before they blast that last fragment."
+        ],
+        "link": "https://archive.org/details/289A3d",
+        "image": "",
+        "screenshots": [
+            ""
+        ],
+        "video": ""
+    },
+    "3dRacing": {
+        "title": "3D Racing",
+        "genre": "Racing",
+        "description": [
+            ""
+        ],
+        "link": "",
+        "image": "",
+        "screenshots": [
+            ""
+        ],
+        "video": ""
+    },
+    "abaDaba": {
+        "title": "Aba Daba",
+        "genre": "Puzzle",
+        "description": [
+            "Have you ever played 5 in a row?",
+            "For sure that you have played it, but now it's different, your opponent is your PC.",
+            "By this way you can practice your skills and win everyone the next time.",
+            "As you remember, the rules are easy, you win when you place 5 of your marks in a row of connected squares, no matter if the winning row is horizontal, vertical, or diagonal.",
+            "Choose the difficulty level, the theme and get ready.",
+            "Furthermore, it supports multiplayer mode, so you can play versus one friend too."
+        ],
+        "link": "https://aba-daba.en.uptodown.com/windows",
+        "image": "https://www.giantbomb.com/a/uploads/scale_small/15/157771/2309447-abdb3.png",
+        "screenshots": [
+            ""
+        ],
+        "video": ""
+    },
+    "codex": {
+        "title": "Codex",
+        "genre": "Puzzle",
+        "description": [
+            "Codex is a logic game similar to MasterMind in which you have to find out the secret code formed by a mix of colors.",
+            "To win, you must use your brain, because the game inform which colors are placed in the right position of the code and which colors belongs to the code, but are located in a wrong position."
+        ],
+        "link": "https://archive.org/details/Codex_1020",
+        "image": "https://ia800300.us.archive.org/5/items/Codex_1020/resource_item_3257.png",
+        "screenshots": [
+            ""
+        ],
+        "video": ""
+    },
+    "tetrisBreak": {
+        "title": "Tetris Break",
+        "genre": "Puzzle",
+        "description": [
+            "A very nice version of Tetris"
+        ],
+        "link": "https://archive.org/details/TetrisBreak_1020",
+        "image": "https://ia800700.us.archive.org/17/items/TetrisBreak_1020/resource_item_3307.png",
+        "screenshots": [
+            ""
+        ],
+        "video": ""
+    }
+}

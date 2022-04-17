@@ -2,7 +2,6 @@ import gameDescriptions from "../util/gameDescriptions";
 import gameLinks from "../util/gameLinks";
 
 const gameDetails = [
-  "superMethaneBros",
   "asteroidz3d",
   "threeSixty",
   "threeDeeRacing",
