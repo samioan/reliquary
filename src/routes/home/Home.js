@@ -1,38 +1,51 @@
-import React, { useEffect, useState } from "react";
-
+import React, { useState } from "react";
 import Tab from "@material-ui/core/Tab";
 import Tabs from "@material-ui/core/Tabs";
-
 import Typography from "@material-ui/core/Typography";
+import VideocamIcon from "@material-ui/icons/Videocam";
+import MusicNoteIcon from "@material-ui/icons/MusicNote";
+import LibraryBooksIcon from "@material-ui/icons/LibraryBooks";
+import SportsEsportsIcon from "@material-ui/icons/SportsEsports";
 
-import Games from "routes/games";
+import gameData from "data/gameData";
 
+import { ItemContainer } from "components";
 import styles from "./styles";
 
 const Home = () => {
   const classes = styles();
 
-  useEffect(() => {
-    window.scrollTo(0, 0);
-  }, []);
-
-  const [value, setValue] = React.useState(0);
+  const [value, setValue] = useState(0);
 
   const handleChange = (event, newValue) => {
     setValue(newValue);
   };
+
+  const [open, setOpen] = useState(null);
 
   return (
     <div className={classes.page}>
       <Typography className={classes.title} variant="h3" align="center">
         The Reliquary
       </Typography>
-      <Tabs value={value} onChange={handleChange} centered>
-        <Tab label="Games" />
-        <Tab label="Music" />
-        <Tab label="Art" />
+      <Tabs
+        value={value}
+        onChange={handleChange}
+        centered
+        className={classes.tabs}
+      >
+        <Tab icon={<SportsEsportsIcon />} />
+        <Tab icon={<MusicNoteIcon />} />
+        <Tab icon={<VideocamIcon />} />
+        <Tab icon={<LibraryBooksIcon />} />
       </Tabs>
-      <Games value={value} index={0} />
+      <ItemContainer
+        value={value}
+        index={0}
+        data={gameData}
+        toggleOpen={setOpen}
+        open={open}
+      />
     </div>
   );
 };

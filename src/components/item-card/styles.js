@@ -8,6 +8,7 @@ const styles = makeStyles(() => ({
     transition: "0.3s",
     "&:hover": {
       backgroundColor: "#EFEFEF",
+      cursor: "pointer",
     },
   },
   text: {

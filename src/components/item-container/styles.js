@@ -1,10 +1,7 @@
 import { makeStyles } from "@material-ui/core/styles";
 
-const styles = makeStyles(({ breakpoints }) => ({
-  title: {
-    color: "#76323F",
-  },
-  gameCard: {
+const styles = makeStyles(() => ({
+  itemCard: {
     padding: 16,
   },
 }));

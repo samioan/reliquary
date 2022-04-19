@@ -1,17 +1,4 @@
 {
-    "360": {
-        "title": "3.6.0.",
-        "genre": "Shooter",
-        "description": [
-            ""
-        ],
-        "link": "",
-        "image": "",
-        "screenshots": [
-            ""
-        ],
-        "video": ""
-    },
     "superMethaneBros": {
         "title": "Super Methane Bros",
         "genre": "Platformer",
@@ -23,40 +10,38 @@
             "Puff and Blow must suck the floating gas clouds into their guns and blast them out against a vertical surface.",
             "Bad guys then turn into bonuses which can be collected."
         ],
-        "link": "http://methane.sourceforge.net/",
+        "websiteLink": "http://methane.sourceforge.net/",
+        "downloadLink": "http://prdownloads.sourceforge.net/methane/methane_win32.exe?download",
         "image": "http://methane.sourceforge.net/title.gif",
         "screenshots": [
-            ""
+            "https://www.myabandonware.com/media/screenshots/s/super-methane-bros-me4/super-methane-bros_2.png",
+            "https://www.myabandonware.com/media/screenshots/s/super-methane-bros-me4/super-methane-bros_3.png",
+            "https://www.myabandonware.com/media/screenshots/s/super-methane-bros-me4/super-methane-bros_4.png",
+            "https://www.myabandonware.com/media/screenshots/s/super-methane-bros-me4/super-methane-bros_5.png",
+            "https://www.myabandonware.com/media/screenshots/s/super-methane-bros-me4/super-methane-bros_6.png",
+            "https://www.myabandonware.com/media/screenshots/s/super-methane-bros-me4/super-methane-bros_7.png"
         ],
-        "video": ""
+        "video": "57NZWtnl-f8"
     },
     "azteroidz3d": {
         "title": "Azteroidz3D",
         "genre": "Shooter",
         "description": [
-            "Remake of the classic arcade game Asteroids.",
-            "Shoot all the rocks, once they are all dead you will proceed to the next level.",
-            "The smart player will make sure they pick up any powerups left lying around before they blast that last fragment."
+            "A remake of the classic arcade game Asteroids.",
+            "Shoot all the meteors, once they are all destroyed you can proceed to the next level. You can also pick up a variety of different power ups."
         ],
-        "link": "https://archive.org/details/289A3d",
-        "image": "",
+        "websiteLink": "https://archive.org/details/289A3d",
+        "downloadLink": "https://archive.org/download/289A3d/289_a3d.zip",
+        "image": "https://cdn.igromania.ru/mnt/game_screenshots_gallery/f/1/d/1/b/296265/4078218eeb6009eb_1920xH.jpg",
         "screenshots": [
-            ""
+            "https://cdn.igromania.ru/mnt/game_screenshots_gallery/7/3/2/c/5/296258/7edbe2f73a4c775e_1920xH.jpg",
+            "https://cdn.igromania.ru/mnt/game_screenshots_gallery/f/a/7/9/9/296259/a84fd27472d2bfe6_1920xH.jpg",
+            "https://cdn.igromania.ru/mnt/game_screenshots_gallery/3/9/c/7/e/296260/466477e85562253c_1920xH.jpg",
+            "https://cdn.igromania.ru/mnt/game_screenshots_gallery/c/e/a/8/4/296262/41afd65ae1645318_1920xH.jpg",
+            "https://cdn.igromania.ru/mnt/game_screenshots_gallery/0/5/1/4/b/296263/7760d2ec029dde57_1920xH.jpg",
+            "https://cdn.igromania.ru/mnt/game_screenshots_gallery/5/4/a/c/6/296264/630145cc9d421282_1920xH.jpg"
         ],
-        "video": ""
-    },
-    "3dRacing": {
-        "title": "3D Racing",
-        "genre": "Racing",
-        "description": [
-            ""
-        ],
-        "link": "",
-        "image": "",
-        "screenshots": [
-            ""
-        ],
-        "video": ""
+        "video": "QJGRAXWSZrA"
     },
     "abaDaba": {
         "title": "Aba Daba",
@@ -69,7 +54,8 @@
             "Choose the difficulty level, the theme and get ready.",
             "Furthermore, it supports multiplayer mode, so you can play versus one friend too."
         ],
-        "link": "https://aba-daba.en.uptodown.com/windows",
+        "websiteLink": "https://aba-daba.en.uptodown.com/windows",
+        "downloadLink": "",
         "image": "https://www.giantbomb.com/a/uploads/scale_small/15/157771/2309447-abdb3.png",
         "screenshots": [
             ""
@@ -83,7 +69,8 @@
             "Codex is a logic game similar to MasterMind in which you have to find out the secret code formed by a mix of colors.",
             "To win, you must use your brain, because the game inform which colors are placed in the right position of the code and which colors belongs to the code, but are located in a wrong position."
         ],
-        "link": "https://archive.org/details/Codex_1020",
+        "websiteLink": "https://archive.org/details/Codex_1020",
+        "downloadLink": "",
         "image": "https://ia800300.us.archive.org/5/items/Codex_1020/resource_item_3257.png",
         "screenshots": [
             ""
@@ -96,7 +83,8 @@
         "description": [
             "A very nice version of Tetris"
         ],
-        "link": "https://archive.org/details/TetrisBreak_1020",
+        "websiteLink": "https://archive.org/details/TetrisBreak_1020",
+        "downloadLink": "",
         "image": "https://ia800700.us.archive.org/17/items/TetrisBreak_1020/resource_item_3307.png",
         "screenshots": [
             ""
