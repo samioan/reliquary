@@ -19,6 +19,9 @@ const styles = makeStyles(({ breakpoints }) => ({
     marginBottom: 16,
     padding: "0px 8px",
   },
+  tooltip: {
+    top: 16,
+  },
 }));
 
 export { styles };

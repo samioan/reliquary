@@ -19,6 +19,9 @@ const styles = makeStyles(() => ({
     borderRadius: 8,
     height: 240,
   },
+  tooltip: {
+    top: 16,
+  },
 }));
 
 export { styles };
