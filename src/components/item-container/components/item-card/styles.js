@@ -4,9 +4,9 @@ const styles = makeStyles(() => ({
   card: {
     borderRadius: 8,
     backgroundColor: "#D7CEC7",
-    boxShadow: "#565656 0px 5px 15px",
     transition: "0.3s",
     "&:hover": {
+      boxShadow: "#565656 0px 5px 15px",
       backgroundColor: "#EFEFEF",
       cursor: "pointer",
     },
@@ -14,6 +14,8 @@ const styles = makeStyles(() => ({
   text: {
     color: "#76323F",
     textOverflow: "ellipsis",
+    whiteSpace: "nowrap",
+    overflow: "hidden",
   },
   media: {
     borderRadius: 8,

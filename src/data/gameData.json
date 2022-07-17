@@ -2,14 +2,7 @@
     "superMethaneBros": {
         "title": "Super Methane Bros",
         "genre": "Platformer",
-        "description": [
-            "Super Methane Brothers is a video game similar to Taito's Bubble Bobble arcade game, released for Amiga in 1993 by Apache Software.",
-            "The protagonists of the game, Puff and Blow, each have a Methane Gas Gun which fires a cloud of immobilising gas.",
-            "If this comes into contact with a bad guy, he will be absorbed into the gas and then float around the screen for a limited time.",
-            "Bad guys are harmless in this state.",
-            "Puff and Blow must suck the floating gas clouds into their guns and blast them out against a vertical surface.",
-            "Bad guys then turn into bonuses which can be collected."
-        ],
+        "description": "Super Methane Brothers is a video game similar to Taito's Bubble Bobble arcade game, released for Amiga in 1993 by Apache Software. The protagonists of the game, Puff and Blow, each have a Methane Gas Gun which fires a cloud of immobilising gas. If this comes into contact with a bad guy, he will be absorbed into the gas and then float around the screen for a limited time. Bad guys are harmless in this state. Puff and Blow must suck the floating gas clouds into their guns and blast them out against a vertical surface. Bad guys then turn into bonuses which can be collected.",
         "websiteLink": "http://methane.sourceforge.net/",
         "downloadLink": "http://prdownloads.sourceforge.net/methane/methane_win32.exe?download",
         "image": "http://methane.sourceforge.net/title.gif",
@@ -21,7 +14,7 @@
             "https://www.myabandonware.com/media/screenshots/s/super-methane-bros-me4/super-methane-bros_6.png",
             "https://www.myabandonware.com/media/screenshots/s/super-methane-bros-me4/super-methane-bros_7.png"
         ],
-        "video": "57NZWtnl-f8"
+        "video": "https://www.youtube.com/embed/57NZWtnl-f8"
     },
     "azteroidz3d": {
         "title": "Azteroidz3D",
@@ -41,7 +34,7 @@
             "https://cdn.igromania.ru/mnt/game_screenshots_gallery/0/5/1/4/b/296263/7760d2ec029dde57_1920xH.jpg",
             "https://cdn.igromania.ru/mnt/game_screenshots_gallery/5/4/a/c/6/296264/630145cc9d421282_1920xH.jpg"
         ],
-        "video": "QJGRAXWSZrA"
+        "video": "https://www.youtube.com/embed/QJGRAXWSZrA"
     },
     "abaDaba": {
         "title": "Aba Daba",
@@ -80,9 +73,7 @@
     "tetrisBreak": {
         "title": "Tetris Break",
         "genre": "Puzzle",
-        "description": [
-            "A very nice version of Tetris"
-        ],
+        "description": "A very nice version of Tetris",
         "websiteLink": "https://archive.org/details/TetrisBreak_1020",
         "downloadLink": "",
         "image": "https://ia800700.us.archive.org/17/items/TetrisBreak_1020/resource_item_3307.png",

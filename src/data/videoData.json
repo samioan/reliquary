@@ -1,0 +1,226 @@
+{
+    "caelvengula": {
+        "title": "Caelvengula",
+        "genre": "L.H.O.H.Q",
+        "websiteLink": "http://lhohq.info/",
+        "downloadLink": "http://lhohq.info/cinema/lhohq-caelvengula.mp4",
+        "image": "https://archive.org/download/lhohq-caelvengula/lhohq-caelvengula.thumbs/LHOHQ%20-%20Caelvengula_000059.jpg",
+        "video": "https://archive.org/embed/lhohq-caelvengula"
+    },
+    "bob": {
+        "title": "Bob",
+        "genre": "L.H.O.H.Q",
+        "websiteLink": "http://lhohq.info/",
+        "downloadLink": "http://lhohq.info/bob.mp4",
+        "image": "https://archive.org/download/lhohq-bob/lhohq-bob.thumbs/LHOHQ%20-%20Bob_000057.jpg",
+        "video": "https://archive.org/embed/lhohq-bob"
+    },
+    "philoctetes": {
+        "title": "Philoctetes",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/Fire/Philoctetes.zip",
+        "image": "https://archive.org/download/hekate-station-philoctetes/hekate-station-philoctetes.thumbs/Hekate%20Station%20-%20Philoctetes_000032.jpg",
+        "video": "https://archive.org/embed/hekate-station-philoctetes"
+    },
+    "pan3": {
+        "title": "Pins And Needles - Part 3: Abby",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/PaN/files/PaN_3.zip",
+        "image": "https://archive.org/download/hekate-station-pins-and-needles-part-3-abby/hekate-station-pins-and-needles-part-3-abby.thumbs/Hekate%20Station%20-%20Pins%20and%20Needles%20Part%203_%20Abby_000030.jpg",
+        "video": "https://archive.org/embed/hekate-station-pins-and-needles-part-3-abby"
+    },
+    "pan2": {
+        "title": "Pins And Needles - Part 2: Santa Campaña",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/PaN/files/PaN2.zip",
+        "image": "https://archive.org/download/hekate-station-pins-and-needles-part-2-santa-campana/hekate-station-pins-and-needles-part-2-santa-campana.thumbs/Hekate%20Station%20-%20Pins%20and%20Needles%20Part%202_%20Santa%20Campa%C3%B1a_000027.jpg",
+        "video": "https://archive.org/embed/hekate-station-pins-and-needles-part-2-santa-campana"
+    },
+    "pan1": {
+        "title": "Pins And Needles - Part 1: Becca",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/PaN/files/PaN_1.zip",
+        "image": "https://archive.org/download/hekate-station-pins-and-needles-part-1-becca/hekate-station-pins-and-needles-part-1-becca.thumbs/Hekate%20Station%20-%20Pins%20and%20Needles%20Part%201_%20Becca_000030.jpg",
+        "video": "https://archive.org/embed/hekate-station-pins-and-needles-part-1-becca"
+    },
+    "gruber3": {
+        "title": "Gruber - Part 3",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/files/Gruber_part3.zip/",
+        "image": "https://archive.org/download/hekate-station-gruber-part-3/hekate-station-gruber-part-3.thumbs/Hekate%20Station%20-%20Gruber%20Part%203_000058.jpg",
+        "video": "https://archive.org/embed/hekate-station-gruber-part-3"
+    },
+    "gruber2": {
+        "title": "Gruber - Part 2",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/files/Gruber_part2.zip/",
+        "image": "https://archive.org/download/hekate-station-gruber-part-2/hekate-station-gruber-part-2.thumbs/Hekate%20Station%20-%20Gruber%20Part%202_000032.jpg",
+        "video": "https://archive.org/embed/hekate-station-gruber-part-2"
+    },
+    "gruber1": {
+        "title": "Gruber - Part 1",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://www.hekatestation.net/files/Gruber_part1.zip/",
+        "image": "https://archive.org/download/hekate-station-gruber-part-1/hekate-station-gruber-part-1.thumbs/Hekate%20Station%20-%20Gruber%20Part%201_000032.jpg",
+        "video": "https://archive.org/embed/hekate-station-gruber-part-1"
+    },
+    "e3h3": {
+        "title": "E3H - Act 3",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/E3H/E3H_act3.zip",
+        "image": "https://archive.org/download/hekate-station-e-3-h-act-3/hekate-station-e-3-h-act-3.thumbs/Hekate%20Station%20-%20E3H-%20Act%203_000054.jpg",
+        "video": "https://archive.org/embed/hekate-station-e-3-h-act-3"
+    },
+    "e3h2": {
+        "title": "E3H - Act 2",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/E3H/E3H_act2.zip",
+        "image": "https://archive.org/download/hekate-station-e-3-h-act-2/hekate-station-e-3-h-act-2.thumbs/Hekate%20Station%20-%20E3H-%20Act%202_000027.jpg",
+        "video": "https://archive.org/embed/hekate-station-e-3-h-act-2"
+    },
+    "e3h1": {
+        "title": "E3H - Act 1",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/E3H/E3H_act1.zip",
+        "image": "https://archive.org/download/hekate-station-e-3-h-act-1/hekate-station-e-3-h-act-1.thumbs/Hekate%20Station%20-%20E3H-%20Act%201_000027.jpg",
+        "video": "https://archive.org/embed/hekate-station-e-3-h-act-1"
+    },
+    "chorihani": {
+        "title": "Chorihani",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/Fire/Chorihani.zip",
+        "image": "https://archive.org/download/hekate-station-chorihani/hekate-station-chorihani.thumbs/Hekate%20Station%20-%20Chorihani_000032.jpg",
+        "video": "https://archive.org/embed/hekate-station-chorihani"
+    },
+    "wet": {
+        "title": "WET",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/caveofnightmares/Wet.zip",
+        "image": "https://archive.org/download/hekate-station-wet/hekate-station-wet.thumbs/Hekate%20Station%20-%20WET_000032.jpg",
+        "video": "https://archive.org/embed/hekate-station-wet"
+    },
+    "twosret": {
+        "title": "Twosret",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/zaqqum/zfiles/Twosret.zip",
+        "image": "https://archive.org/download/hekate-station-twosret/hekate-station-twosret.thumbs/Hekate%20Station%20-%20Twosret_000027.jpg",
+        "video": "https://archive.org/embed/hekate-station-twosret"
+    },
+    "theSaturnSpread": {
+        "title": "The Saturn Spread",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/zaqqum/zfiles/TheSaturnSpread.zip",
+        "image": "https://archive.org/download/hekate-station-the-saturn-spread/hekate-station-the-saturn-spread.thumbs/Hekate%20Station%20-%20The%20Saturn%20Spread_000027.jpg",
+        "video": "https://archive.org/embed/hekate-station-the-saturn-spread"
+    },
+    "theAbyss": {
+        "title": "The Abyss",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/zaqqum/zfiles/TheAbyss.zip",
+        "image": "https://archive.org/download/hekate-station-the-abyss/hekate-station-the-abyss.thumbs/Hekate%20Station%20-%20The%20Abyss_000027.jpg",
+        "video": "https://archive.org/embed/hekate-station-the-abyss"
+    },
+    "sulla": {
+        "title": "Sulla",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/files/sulla.zip",
+        "image": "https://archive.org/download/hekate-station-sulla/hekate-station-sulla.thumbs/Hekate%20Station%20-%20Sulla_000056.jpg",
+        "video": "https://archive.org/embed/hekate-station-sulla"
+    },
+    "shirley": {
+        "title": "Shirley",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/zaqqum/zfiles/Shirley.zip",
+        "image": "https://archive.org/download/hekate-station-shirley/hekate-station-shirley.thumbs/Hekate%20Station%20-%20Shirley_000027.jpg",
+        "video": "https://archive.org/embed/hekate-station-shirley"
+    },
+    "semiramis": {
+        "title": "Semiramis",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/2_18/texts/sem_11_24.zip",
+        "image": "https://archive.org/download/hekate-station-semiramis/hekate-station-semiramis.thumbs/Hekate%20Station%20-%20Semiramis_000030.jpg",
+        "video": "https://archive.org/embed/hekate-station-semiramis"
+    },
+    "philophrosyne": {
+        "title": "Philophrosyne",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/files/philophrosyne.zip",
+        "image": "https://archive.org/download/hekate-station-philophrosyne/hekate-station-philophrosyne.thumbs/Hekate%20Station%20-%20Philophrosyne_000032.jpg",
+        "video": "https://archive.org/embed/hekate-station-philophrosyne"
+    },
+    "oubliette": {
+        "title": "Oubliette",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/caveofnightmares/Oubliette.zip",
+        "image": "https://archive.org/download/hekate-station-oubliette/hekate-station-oubliette.thumbs/Hekate%20Station%20-%20Oubliette_000032.jpg",
+        "video": "https://archive.org/embed/hekate-station-oubliette"
+    },
+    "killSwitch": {
+        "title": "Kill Switch",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "",
+        "image": "https://archive.org/download/hekate-station-kill-switch/hekate-station-kill-switch.thumbs/Hekate%20Station%20-%20Kill%20Switch_000030.jpg",
+        "video": "https://archive.org/embed/hekate-station-kill-switch"
+    },
+    "eaten": {
+        "title": "Eaten",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/zaqqum/zfiles/Eaten.zip",
+        "image": "https://archive.org/download/hekate-station-eaten/hekate-station-eaten.thumbs/Hekate%20Station%20-%20Eaten_000027.jpg",
+        "video": "https://archive.org/embed/hekate-station-eaten"
+    },
+    "caveOfNightmares": {
+        "title": "Cave of Nightmares",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/caveofnightmares/Cave%20of%20Nightmares.zip",
+        "image": "https://archive.org/download/hekate-station-cave-of-nightmares/hekate-station-cave-of-nightmares.thumbs/Hekate%20Station%20-%20Cave%20of%20Nightmares_000058.jpg",
+        "video": "https://archive.org/embed/hekate-station-cave-of-nightmares"
+    },
+    "bound": {
+        "title": "Bound",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/files/bound.zip",
+        "image": "https://archive.org/download/hekate-station-bound/hekate-station-bound.thumbs/Hekate%20Station%20-%20Bound_000030.jpg",
+        "video": "https://archive.org/embed/hekate-station-bound"
+    },
+    "bera": {
+        "title": "BERA",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "http://hekatestation.net/zaqqum/zfiles/BERA.zip",
+        "image": "https://archive.org/download/hekate-station-bera/hekate-station-bera.thumbs/Hekate%20Station%20-%20BERA_000027.jpg",
+        "video": "https://archive.org/embed/hekate-station-bera"
+    },
+    "barren": {
+        "title": "Barren",
+        "genre": "Hekate Station",
+        "websiteLink": "http://hekatestation.net/",
+        "downloadLink": "https://archive.org/download/hekate-station-barren/Hekate%20Station%20-%20Barren.mp4",
+        "image": "https://archive.org/download/hekate-station-barren/hekate-station-barren.thumbs/Hekate%20Station%20-%20Barren_000056.jpg",
+        "video": "https://archive.org/embed/hekate-station-barren"
+    }
+}

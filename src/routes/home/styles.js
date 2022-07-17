@@ -6,7 +6,7 @@ const styles = makeStyles(({ breakpoints }) => ({
     backgroundColor: "rgba(192, 159, 128, 0.8)",
     margin: "auto",
     minHeight: "100vh",
-    [breakpoints.up("sm")]: {
+    [breakpoints.up("lg")]: {
       maxWidth: "60vw",
     },
   },

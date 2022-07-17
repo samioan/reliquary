@@ -1,0 +1,26 @@
+{
+    "superMethaneBros": {
+        "title": "Super Methane Bros",
+        "genre": "Platformer",
+        "description": [
+            "Super Methane Brothers is a video game similar to Taito's Bubble Bobble arcade game, released for Amiga in 1993 by Apache Software.",
+            "The protagonists of the game, Puff and Blow, each have a Methane Gas Gun which fires a cloud of immobilising gas.",
+            "If this comes into contact with a bad guy, he will be absorbed into the gas and then float around the screen for a limited time.",
+            "Bad guys are harmless in this state.",
+            "Puff and Blow must suck the floating gas clouds into their guns and blast them out against a vertical surface.",
+            "Bad guys then turn into bonuses which can be collected."
+        ],
+        "websiteLink": "http://methane.sourceforge.net/",
+        "downloadLink": "http://prdownloads.sourceforge.net/methane/methane_win32.exe?download",
+        "image": "http://methane.sourceforge.net/title.gif",
+        "screenshots": [
+            "https://www.myabandonware.com/media/screenshots/s/super-methane-bros-me4/super-methane-bros_2.png",
+            "https://www.myabandonware.com/media/screenshots/s/super-methane-bros-me4/super-methane-bros_3.png",
+            "https://www.myabandonware.com/media/screenshots/s/super-methane-bros-me4/super-methane-bros_4.png",
+            "https://www.myabandonware.com/media/screenshots/s/super-methane-bros-me4/super-methane-bros_5.png",
+            "https://www.myabandonware.com/media/screenshots/s/super-methane-bros-me4/super-methane-bros_6.png",
+            "https://www.myabandonware.com/media/screenshots/s/super-methane-bros-me4/super-methane-bros_7.png"
+        ],
+        "video": "57NZWtnl-f8"
+    }
+}

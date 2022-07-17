@@ -9,36 +9,15 @@ const styles = makeStyles(({ breakpoints }) => ({
     left: "50%",
     transform: "translate(-50%, -50%)",
     boxShadow: "#565656 0px 5px 15px",
-    padding: 8,
+    padding: 16,
     width: "calc(100% - 32px)",
-    [breakpoints.up("sm")]: {
+    [breakpoints.up("md")]: {
       width: "50%",
     },
   },
-  titleContainer: {
-    padding: "8px 8px 8px",
-  },
-  title: {
-    color: "#76323F",
-  },
   contentContainer: {
-    height: "80vh",
-    overflowY: "auto",
-    padding: "8px 8px 0px 8px",
-  },
-  descriptionContainer: {
-    textAlign: "justify",
-    textJustify: "inter-word",
-  },
-  chip: {
-    marginTop: 8,
-  },
-  list: {
-    "& li": {
-      "& div": {
-        borderRadius: 8,
-      },
-    },
+    marginTop: 16,
+    width: "99%",
   },
 }));
 
