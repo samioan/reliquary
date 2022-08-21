@@ -16,7 +16,7 @@ const ItemContainer = ({ value, index, data }) => {
             <Grid
               key={item.title}
               item
-              xs={11}
+              xs={12}
               sm={12}
               md={6}
               lg={6}

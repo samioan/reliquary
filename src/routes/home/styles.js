@@ -3,7 +3,7 @@ import { makeStyles } from "@material-ui/core/styles";
 const styles = makeStyles(({ breakpoints }) => ({
   page: {
     width: "100vw",
-    backgroundColor: "rgba(192, 159, 128, 0.8)",
+    backgroundColor: "rgb(192, 159, 128)",
     margin: "auto",
     minHeight: "100vh",
     [breakpoints.up("lg")]: {
