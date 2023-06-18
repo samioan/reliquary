@@ -1,26 +1,28 @@
 import React from "react";
-import { Home } from "./routes";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import backgroundGeneral from "./backgroundGeneral.jpg";
 
-const App = () => (
-  <Router>
-    <Switch>
-      <Route exact path="/">
-        <div
-          style={{
-            backgroundImage: `url(${backgroundGeneral})`,
-            backgroundPosition: "center",
-            backgroundRepeat: "no-repeat",
-            backgroundAttachment: "fixed",
-            backgroundSize: "cover",
-          }}
-        >
-          <Home />
-        </div>
-      </Route>
-    </Switch>
-  </Router>
-);
+import { ItemContainer } from "components";
+import { BrowserRouter, Route, Switch } from "react-router-dom";
 
-export default App;
+import withApp from "withApp";
+
+import styles from "./styles";
+
+const App = ({ tabs }) => {
+  const classes = styles();
+
+  return (
+    <BrowserRouter>
+      <div className={classes.background}>
+        <Switch>
+          {tabs.map(({ link, data, title }) => (
+            <Route exact path={link}>
+              <ItemContainer data={data} tabs={tabs} title={title} />
+            </Route>
+          ))}
+        </Switch>
+      </div>
+    </BrowserRouter>
+  );
+};
+
+export default withApp(App);

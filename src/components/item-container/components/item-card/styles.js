@@ -2,6 +2,8 @@ import { makeStyles } from "@material-ui/core/styles";
 
 const styles = makeStyles(() => ({
   card: {
+    width: 300,
+    margin: 16,
     borderRadius: 8,
     backgroundColor: "#D7CEC7",
     transition: "0.3s",
@@ -19,7 +21,7 @@ const styles = makeStyles(() => ({
   },
   media: {
     borderRadius: 8,
-    height: 240,
+    height: 200,
   },
   tooltip: {
     top: 16,

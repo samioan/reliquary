@@ -1,8 +1,9 @@
 import { makeStyles } from "@material-ui/core/styles";
 
 const styles = makeStyles(() => ({
-  container: {
-    padding: "0 8px 8px 8px",
+  tabs: {
+    marginBottom: 16,
+    padding: "0px 8px",
   },
   tooltip: {
     top: 16,
